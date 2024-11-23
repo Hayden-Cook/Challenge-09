@@ -44,10 +44,10 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   ## Installation
-  ${data.installation}
+  To install the packages, clone this repo to your local terminal and run ${data.installation}.
 
   ## Usage
-  ${data.usage}
+  You can run this generator by using ${data.usage}.
 
   ${renderLicenseSection(data.license)}
 
@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   ${data.contributing}
 
   ## Tests
-  ${data.tests}
+  You can test this application by using ${data.tests}.
 
   ## Questions
   If you have any questions, please feel free to contact me:
