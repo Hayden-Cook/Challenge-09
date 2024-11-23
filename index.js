@@ -7,48 +7,48 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
     {
         type: "input",
-        name: "appTitle",
+        name: "title",
         message: "What is your project title?",
     },
     {
         type: "input",
-        name: "appDescription",
+        name: "description",
         message: "How would you describe your application?",
     },
     {
         type: "input",
-        name: "appInstall",
+        name: "installation",
         message: "How does the user install your application?",
     },
     {
         type: "input",
-        name: "appUsage",
+        name: "usage",
         message: "What usage information can you provide?",
     },
     {
         type: "input",
-        name: "appContribution",
+        name: "contributing",
         message: "How can users contribute to your application?",
     },
     {
         type: "list",
-        name: "appLicense",
+        name: "license",
         message: "Which license does your app use?",
         choices: ['Apache', 'MIT', 'Eclipse', 'Mozilla', 'None'],
     },
     {
         type: "input",
-        name: "appTest",
+        name: "tests",
         message: "How can your application be tested?",
     },
     {
         type: "input",
-        name: "userGitHub",
+        name: "github",
         message: "What is your GitHub username?",
     },
     {
         type: "input",
-        name: "userEmail",
+        name: "email",
         message: "What is your email address?",
     },
 ];
