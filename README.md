@@ -6,12 +6,16 @@
   A command-line application that can be used to generate professional README files. By using this, developers can decrease the amount of time it takes to format and type out their README    files in their repositories.
 
   ## Table of Contents
+  - [Walk-Through](#walk-through)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+
+  ## Walk-Through
+  You can watch the walk through video with the following link: [Video](https://app.screencastify.com/v3/watch/RhtRyHHDzIXOorPMQQnQ)
 
   ## Installation
   To install the packages, clone this repo to your local terminal and run npm install.
