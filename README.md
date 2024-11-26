@@ -15,7 +15,7 @@
   - [Questions](#questions)
 
   ## Walk-Through
-  You can watch the walk through video with the following link: [Video](https://app.screencastify.com/v3/watch/RhtRyHHDzIXOorPMQQnQ)
+  You can watch the walk through video with the following link: [Video](https://drive.google.com/file/d/1ni71jZ6JpD2Ch6swHeMb4o21uNMw9SS2/view)
 
   ## Installation
   To install the packages, clone this repo to your local terminal and run npm install.
